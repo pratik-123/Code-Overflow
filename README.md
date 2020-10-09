@@ -43,3 +43,4 @@ Awesome Open Source Coding Problems
 5. Program to print Fibonnaci Series
 6. Program to print ASCII value of given character
 7. Program to check triangle is equilateral, isosceles ot scalene
+8. Program to check string is funny or not (Funny if it contains at least three vowels in uppercase, alphabet x, y, z in lowercase and only the even digits)
